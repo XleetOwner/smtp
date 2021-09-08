@@ -14,11 +14,5 @@
     <li>
         <h3 style="text-align: justify;"><span style="text-shadow: 3px 3px 2px rgba(136, 136, 136, 0.8);">
             
-            
-            
-            
-            
-            </span></h3>
-    </li>
 </ol>
            <img src="https://i.ibb.co/yy1Y675/smtpcracker.png">
