@@ -6,13 +6,13 @@
         <h2 style="text-align: justify;"><em><span style="text-shadow: 3px 3px 2px rgba(136, 136, 136, 0.8);">SMTP CRACKER</span></em></h2>
     </li>
     <li>
-        <h3 style="text-align: justify;"><em><span style="text-shadow: 3px 3px 2px rgba(136, 136, 136, 0.8);">Easy TO Used For Any Hosting</span></em></h3>
+        <h3 style="text-align: justify;"><em><span style="text-shadow: 3px 3px 2px rgba(136, 136, 136, 0.8);">Easy To Used For Any Hosting</span></em></h3>
     </li>
     <li>
         <h3 style="text-align: justify;"><span style="text-shadow: 3px 3px 2px rgba(136, 136, 136, 0.8);"><em>Powered by Xleets.io</em></span></h3>
     </li>
     <li>
-        <h3 style="text-align: justify;"><span style="text-shadow: 3px 3px 2px rgba(136, 136, 136, 0.8);">&nbsp;Screenshorts</span></h3>
+        <h3 style="text-align: justify;"><span style="text-shadow: 3px 3px 2px rgba(136, 136, 136, 0.8);">&nbsp;Screenshorts Sample</span></h3>
     </li>
 </ol>
 <p><img src="https://i.ibb.co/yy1Y675/smtpcracker.png"></p>
