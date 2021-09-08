@@ -1,4 +1,4 @@
 <li>Warning: it's for educational purposes only, use at your own risk!</li>
-<b><font size="36">SMTP CRACKER</b> <br>
+<b><font style="font-size:10vw">SMTP CRACKER</b> <br>
 Easy TO Used For Any Hosting<br>
 Powered by Xleets.io
